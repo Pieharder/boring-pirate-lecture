@@ -13,3 +13,8 @@ color: navy
 .image {
   border-radius: 50%;
 }
+
+.highlightBox {
+  border: 3px dotted navy;
+  background-color: lightgoldenrodyellow;
+}
